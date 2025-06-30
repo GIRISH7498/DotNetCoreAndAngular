@@ -1,0 +1,11 @@
+D:\DotNetCoreAndAngular\Core\bin\Debug\net8.0\Core.deps.json
+D:\DotNetCoreAndAngular\Core\bin\Debug\net8.0\Core.dll
+D:\DotNetCoreAndAngular\Core\bin\Debug\net8.0\Core.pdb
+D:\DotNetCoreAndAngular\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCoreAndAngular\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\DotNetCoreAndAngular\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\DotNetCoreAndAngular\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\DotNetCoreAndAngular\Core\obj\Debug\net8.0\Core.dll
+D:\DotNetCoreAndAngular\Core\obj\Debug\net8.0\refint\Core.dll
+D:\DotNetCoreAndAngular\Core\obj\Debug\net8.0\Core.pdb
+D:\DotNetCoreAndAngular\Core\obj\Debug\net8.0\ref\Core.dll
